@@ -1,2 +1,0 @@
-# concoure-bot
-concoure-bot
